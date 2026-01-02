@@ -173,3 +173,32 @@ The decision required embracing uncertainty and learning rapidly.
 
 When building in unfamiliar domains, **clarity of problem and focus on user value** matter more than prior expertise.
 Strong discovery, intentional MVP scope, and continuous learning can turn complexity into competitive advantage.
+
+## Architecture & Workflow Diagram
+
+```mermaid
+flowchart TD
+    U["Green Deal User (Consultant / SME)"]
+    P["Natural Capital SaaS Platform"]
+
+    G["Guided Workflow Engine
+    - Regulatory steps
+    - User guidance"]
+
+    GIS["GIS Integration Layer
+    - Map visualization
+    - Geometry validation"]
+
+    SHP["Shape File Creation Engine
+    - Polygon creation
+    - Attribute mapping"]
+
+    OUT["Sustainability Outputs
+    - Reports
+    - Compliance artifacts"]
+
+    U --> P
+    P --> G
+    G --> GIS
+    GIS --> SHP
+    SHP --> OUT
