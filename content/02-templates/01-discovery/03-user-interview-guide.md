@@ -1,3 +1,9 @@
+---
+title: "User Interview"
+description: "A structured guide to plan and run user interviews, helping teams gather qualitative insights and validate assumptions."
+summary: "Guide to plan and conduct user interviews."
+---
+
 # User Interview Guide
 
 ## Purpose
