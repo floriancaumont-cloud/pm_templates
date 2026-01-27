@@ -28,30 +28,30 @@ Whether you are an **Aspiring PM**, **Product Manager**, **Product Owner**, or *
 
 ### 🧱 1. Product Management Foundations
 
-- [What is product management](01-foundations/01-what-is-product-management.md)
-- [Role of a product manager](01-foundations/02-role-of-a-product-manager.md)
-- [Problem vs solution thinking](01-foundations/03-problem-vs-solution-thinking.md)
-- [Outcomes vs Output](01-foundations/04-outcomes-vs-output.md)
-- [Product lifecycle](01-foundations/05-product-lifecycle.md)
-- [Stakeholder management](01-foundations/06-stakeholder-management.md)
-- [Decision making](01-foundations/07-decision-making.md)
-- [Metrics and success](01-foundations/08-metrics-and-success.md)
-- [Product principles](01-foundations/09-product-principles.md)
-- [Common PM mistakes](01-foundations/10-common-pm-mistakes.md)
+- [What is product management](content/01-foundations/01-what-is-product-management.md)
+- [Role of a product manager](content/01-foundations/02-role-of-a-product-manager.md)
+- [Problem vs solution thinking](content/01-foundations/03-problem-vs-solution-thinking.md)
+- [Outcomes vs Output](content/01-foundations/04-outcomes-vs-output.md)
+- [Product lifecycle](content/01-foundations/05-product-lifecycle.md)
+- [Stakeholder management](content/01-foundations/06-stakeholder-management.md)
+- [Decision making](content/01-foundations/07-decision-making.md)
+- [Metrics and success](content/01-foundations/08-metrics-and-success.md)
+- [Product principles](content/01-foundations/09-product-principles.md)
+- [Common PM mistakes](content/01-foundations/10-common-pm-mistakes.md)
 
 ### 📄 2. Templates
 
 Reusable templates you can directly apply at work:
 
 🔍 For Discovery:
-- [Problem statement](02-templates/01-discovery/01-problem-statement.md)
-- [User persona](02-templates/01-discovery/02-user-persona.md)
-- [User interview guide](02-templates/01-discovery/03-user-interview-guide.md)
-- [Assumption mapping](02-templates/01-discovery/04-assumption-mapping.md)
-- [Opportunity solution tree](02-templates/01-discovery/05-opportunity-solution-tree.md)
-- [Hypothesis statement](02-templates/01-discovery/06-hypothesis-statement.md)
-- [Experiment plan](02-templates/01-discovery/07-experiment-plan.md)
-- [Discovery summary](02-templates/01-discovery/08-discovery-summary.md)
+- [Problem statement](content/02-templates/01-discovery/01-problem-statement.md)
+- [User persona](content/02-templates/01-discovery/02-user-persona.md)
+- [User interview guide](content/02-templates/01-discovery/03-user-interview-guide.md)
+- [Assumption mapping](content/02-templates/01-discovery/04-assumption-mapping.md)
+- [Opportunity solution tree](content/02-templates/01-discovery/05-opportunity-solution-tree.md)
+- [Hypothesis statement](content/02-templates/01-discovery/06-hypothesis-statement.md)
+- [Experiment plan](content/02-templates/01-discovery/07-experiment-plan.md)
+- [Discovery summary](content/02-templates/01-discovery/08-discovery-summary.md)
 
 ♟️ For Strategy
 - [Product vision](02-templates/02-strategy/01-product-vision.md)
