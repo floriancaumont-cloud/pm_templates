@@ -1,4 +1,4 @@
 ---
 title: "Case studies"
-weight: 2
+weight: 3
 ---
