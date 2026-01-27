@@ -2,6 +2,7 @@
 title: "Discovery Summary"
 description: "A template to synthesize discovery insights, learnings, decisions, and next steps."
 summary: "Template to summarize discovery outcomes."
+weight: 80
 ---
 
 # Discovery Summary Template
