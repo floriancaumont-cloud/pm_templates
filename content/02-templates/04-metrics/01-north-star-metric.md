@@ -2,6 +2,7 @@
 title: "North Star Metric"
 description: "A template to define and document a clear North Star Metric that aligns product teams around long-term user and business value."
 summary: "Template to define and align on a product North Star Metric."
+weight: 10
 ---
 
 # North Star Metric Template
