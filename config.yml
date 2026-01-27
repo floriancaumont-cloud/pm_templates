@@ -1,10 +1,10 @@
 baseURL: "https://floriancaumont-cloud.github.io/pm_playbook/"
 languageCode: "en-us"
-title: "PM Playbook"
+title: "Product Manager Playbook"
 theme: "PaperMod"
 
 pagination:
-  pagerSize: 10
+  pagerSize: 20
 
 enableRobotsTXT: true
 
@@ -13,3 +13,24 @@ params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - name: Foundations
+      url: /01-foundations/
+      weight: 1
+    - name: Templates
+      url: /02-templates/
+      weight: 2
+    - name: Case Studies
+      url: /03-case-studies/
+      weight: 3
+    - name: Frameworks
+      url: /04-frameworks/
+      weight: 4
+    - name: Resources
+      url: /05-resources/
+      weight: 5
+    - name: Tools
+      url: /06-tools/
+      weight: 6
