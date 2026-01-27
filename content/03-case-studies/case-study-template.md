@@ -2,6 +2,7 @@
 title: "Case Study Template"
 description: "A structured template for documenting real product case studies, covering context, problems, constraints, decisions, delivery, and outcomes."
 summary: "A reusable template to document and communicate product case studies clearly and consistently."
+weight: 10
 ---
 
 # Case Study Title
