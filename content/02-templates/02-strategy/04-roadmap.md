@@ -2,6 +2,7 @@
 title: "Product Roadmap"
 description: "A template to create outcome-oriented product roadmaps that align strategy, priorities, and delivery over time."
 summary: "Template to plan and communicate a product roadmap."
+weight: 40
 ---
 
 # Product Roadmap Template
