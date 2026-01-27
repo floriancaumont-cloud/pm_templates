@@ -1,3 +1,6 @@
+title: "What Is Product Management"
+description: "Definition of what is Product Management"
+
 # What Is Product Management?
 
 Product Management is the practice of identifying valuable problems and guiding teams to deliver solutions that create measurable impact for users and the business.
