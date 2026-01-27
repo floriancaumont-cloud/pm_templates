@@ -54,24 +54,24 @@ Reusable templates you can directly apply at work:
 - [Discovery summary](content/02-templates/01-discovery/08-discovery-summary.md)
 
 ♟️ For Strategy
-- [Product vision](02-templates/02-strategy/01-product-vision.md)
-- [Product strategy](02-templates/02-strategy/02-product-strategy.md)
-- [Product principles](02-templates/02-strategy/03-product-principles.md)
-- [Roadmap](02-templates/02-strategy/04-roadmap.md)
-- [Prioritization framework](02-templates/02-strategy/05-prioritization-framework.md)
+- [Product vision](content/02-templates/02-strategy/01-product-vision.md)
+- [Product strategy](content/02-templates/02-strategy/02-product-strategy.md)
+- [Product principles](content/02-templates/02-strategy/03-product-principles.md)
+- [Roadmap](content/02-templates/02-strategy/04-roadmap.md)
+- [Prioritization framework](content/02-templates/02-strategy/05-prioritization-framework.md)
 
 🚀 For Delivery:
-- [Product](02-templates/03-delivery/01-prd.md)
-- [Backlog refinement](02-templates/03-delivery/02-backlog-refinement.md)
-- [Sprint goal](02-templates/03-delivery/03-sprint-goal.md)
-- [Release plan](02-templates/03-delivery/04-release-plan.md)
-- [Retrospective](02-templates/03-delivery/05-retrospective.md)
+- [Product](content/02-templates/03-delivery/01-prd.md)
+- [Backlog refinement](content/02-templates/03-delivery/02-backlog-refinement.md)
+- [Sprint goal](content/02-templates/03-delivery/03-sprint-goal.md)
+- [Release plan](content/02-templates/03-delivery/04-release-plan.md)
+- [Retrospective](content/02-templates/03-delivery/05-retrospective.md)
 
 📊 For Metrics
-- [North star metric](02-templates/04-metrics/01-north-star-metric.md)
-- [OKRs](02-templates/04-metrics/02-okrs.md)
-- [KPIs](02-templates/04-metrics/03-kpis.md)
-- [Experiment metrics](02-templates/04-metrics/04-experiment-metrics.md)
+- [North star metric](content/02-templates/04-metrics/01-north-star-metric.md)
+- [OKRs](content/02-templates/04-metrics/02-okrs.md)
+- [KPIs](content/02-templates/04-metrics/03-kpis.md)
+- [Experiment metrics](content/02-templates/04-metrics/04-experiment-metrics.md)
 
 All templates aim to be:
 
@@ -83,9 +83,9 @@ All templates aim to be:
 
 ### 🗂️ 3. Case studies
 
-- [Case study template](03-case-studies/case-study-template.md)
-- [Natural Capital](03-case-studies/natural-capital.md)
-- [SIRVEC](03-case-studies/sirvec.md)
+- [Case study template](content/03-case-studies/case-study-template.md)
+- [Natural Capital](content/03-case-studies/natural-capital.md)
+- [SIRVEC](content/03-case-studies/sirvec.md)
 
 These are **not perfect success stories**, but honest learning experiences.
 
@@ -93,30 +93,30 @@ These are **not perfect success stories**, but honest learning experiences.
 
 ### 🧩 4. Frameworks
 
-- [Discovery](04-frameworks/discovery.md)
-- [Decision making](04-frameworks/decision-making.md)
-- [Prioritization](04-frameworks/prioritization.md)
-- [Problem framing](04-frameworks/problem-framing.md) 
-- [Strategy](04-frameworks/strategy.md)
+- [Discovery](content/04-frameworks/discovery.md)
+- [Decision making](content/04-frameworks/decision-making.md)
+- [Prioritization](content/04-frameworks/prioritization.md)
+- [Problem framing](content/04-frameworks/problem-framing.md) 
+- [Strategy](content/04-frameworks/strategy.md)
 
 ---
 
 ### 📚 5. Resources
 
-- [Articles](05-resources/articles.md)
-- [Books](05-resources/books.md)
-- [Communitites](05-resources/communities.md)
-- [Courses and certifications](05-resources/courses-certifications.md)
-- [Podcasts](05-resources/podcasts.md)
+- [Articles](content/05-resources/articles.md)
+- [Books](content/05-resources/books.md)
+- [Communitites](content/05-resources/communities.md)
+- [Courses and certifications](content/05-resources/courses-certifications.md)
+- [Podcasts](content/05-resources/podcasts.md)
 
 ---
 
 ### 🛠️ 6. Tools
 
-- [Analytics tools](06-tools/analytics-tools.md)
-- [Collaboration tools](06-tools/collaboration-tools.md)
-- [Delivery tools](06-tools/delivery-tools.md)
-- [Discovery tools](06-tools/discovery-tools.md)
+- [Analytics tools](content/06-tools/analytics-tools.md)
+- [Collaboration tools](content/06-tools/collaboration-tools.md)
+- [Delivery tools](content/06-tools/delivery-tools.md)
+- [Discovery tools](content/06-tools/discovery-tools.md)
 
 ---
 
