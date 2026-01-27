@@ -1,4 +1,10 @@
-# Product Requirements Document (PRD)
+---
+title: "Product Requirements Document (PRD)"
+description: "A structured template to document product requirements, aligning business goals, user needs, constraints, and delivery teams."
+summary: "Template to document and align on product requirements."
+---
+
+# Product Requirements Document (PRD) Template
 
 ## Purpose
 Align teams on the problem and expected outcome.
