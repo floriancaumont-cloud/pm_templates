@@ -1,3 +1,9 @@
+---
+title: "Release Plan"
+description: "A template to plan and communicate product releases, aligning scope, timing, risks, and stakeholders."
+summary: "Template to plan and communicate product releases."
+---
+
 # Release Plan Template
 
 ## Purpose
