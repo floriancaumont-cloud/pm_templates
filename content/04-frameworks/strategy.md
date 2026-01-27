@@ -2,6 +2,7 @@
 title: "Product Strategy Framework"
 description: "Frameworks that support long-term product strategy, aligning vision, goals, customer value, and business outcomes."
 summary: "Frameworks to define, communicate, and execute product strategy."
+weight: 50
 ---
 
 ## Purpose
