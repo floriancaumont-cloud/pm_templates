@@ -1,3 +1,8 @@
+---
+title: "Outcomes vs Output"
+description: "The difference between Outcomes and Output"
+---
+
 # Outcomes vs Output
 
 Shipping features is output.  
