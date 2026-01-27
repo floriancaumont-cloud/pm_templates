@@ -4,7 +4,7 @@ description: "Product discovery tools that help Product Managers research user n
 summary: "Tools for user research, prototyping, discovery interviews, and validation."
 ---
 
-# List of discovery tools
+## List of discovery tools
 
 - Figma (prototypes)
 - Miro / FigJam (workshops)
