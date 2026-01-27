@@ -1,3 +1,9 @@
+---
+title: "Experiment Plan"
+description: "A template to design discovery experiments, defining goals, methods, success metrics, and risks."
+summary: "Template to plan and run discovery experiments."
+---
+
 # Experiment Plan Template
 
 ## Purpose
