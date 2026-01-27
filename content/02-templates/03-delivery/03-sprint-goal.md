@@ -2,6 +2,7 @@
 title: "Sprint Goal"
 description: "A template to define clear and outcome-oriented sprint goals that align team efforts and focus delivery."
 summary: "Template to define clear and aligned sprint goals."
+weight: 30
 ---
 
 # Sprint Goal Template
