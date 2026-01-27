@@ -2,6 +2,7 @@
 title: "Natural Capital"
 description: "SaaS Platform for Green Deal Clients."
 summary: "SaaS Platform for Green Deal Clients."
+weight: 20
 ---
 
 # Natural Capital — SaaS Platform for Green Deal Clients
