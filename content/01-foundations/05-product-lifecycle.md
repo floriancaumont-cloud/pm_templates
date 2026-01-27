@@ -1,3 +1,8 @@
+---
+title: "Product Lifecycle"
+description: "The definition of the Product Lifecycle"
+---
+
 # The Product Lifecycle
 
 Products evolve, and so should Product Management.
