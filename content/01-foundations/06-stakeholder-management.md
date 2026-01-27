@@ -1,3 +1,8 @@
+---
+title: "Stakeholder Management"
+description: "How to manage Stakeholders."
+---
+
 # Stakeholder Management
 
 Stakeholder management is not politics — it’s alignment.
