@@ -1,3 +1,9 @@
+---
+title: "Product Strategy"
+description: "A structured template to define product strategy, aligning vision, goals, target users, value propositions, and strategic choices."
+summary: "Template to define and articulate product strategy."
+---
+
 # Product Strategy Template
 
 ## Purpose
