@@ -2,6 +2,7 @@
 title: "Product Principles"
 description: "A template to define product principles that guide decision-making, trade-offs, and consistent product behavior over time."
 summary: "Template to define guiding product principles."
+weight: 30
 ---
 
 # Product Principles Template
