@@ -4,7 +4,7 @@ description: "Collaboration tools that enable Product Managers to work effective
 summary: "Tools for communication, documentation, alignment, and cross-functional collaboration."
 ---
 
-# List of collaboration tools
+## List of collaboration tools
 
 - Slack
 - Zoom
