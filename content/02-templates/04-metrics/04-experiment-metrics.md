@@ -1,3 +1,9 @@
+---
+title: "Experiment Metrics"
+description: "A template to define success metrics for product experiments, enabling teams to evaluate hypotheses and learning outcomes."
+summary: "Template to measure outcomes and learning from product experiments."
+---
+
 # Experiment Metrics Template
 
 ## Purpose
