@@ -2,6 +2,7 @@
 title: "Problem Statement"
 description: "A template to clearly define and align on the user problem, its context, impact, and why it is worth solving."
 summary: "Template to clearly define a product problem."
+weight: 10
 ---
 
 # Problem Statement Template
