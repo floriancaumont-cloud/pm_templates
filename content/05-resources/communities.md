@@ -1,4 +1,10 @@
-# Communities
+---
+title: "Communities"
+description: "Product management communities where practitioners share knowledge, experiences, challenges, and opportunities for growth."
+summary: "Communities to learn, connect, and grow with other Product Managers."
+---
+
+## Communities
 
 - Mind the Product https://www.mindtheproduct.com/
 - Product School Community https://productschool.com/
