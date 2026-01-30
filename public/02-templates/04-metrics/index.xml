@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Metrics Templates on Product Manager Playbook</title>
+    <link>http://localhost:1313/pm_playbook/02-templates/04-metrics/</link>
+    <description>Recent content in Metrics Templates on Product Manager Playbook</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/pm_playbook/02-templates/04-metrics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North Star Metric</title>
+      <link>http://localhost:1313/pm_playbook/02-templates/04-metrics/01-north-star-metric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/02-templates/04-metrics/01-north-star-metric/</guid>
+      <description>A template to define and document a clear North Star Metric that aligns product teams around long-term user and business value.</description>
+    </item>
+    <item>
+      <title>OKRs</title>
+      <link>http://localhost:1313/pm_playbook/02-templates/04-metrics/02-okrs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/02-templates/04-metrics/02-okrs/</guid>
+      <description>A structured template for defining Objectives and Key Results, helping product teams align goals, outcomes, and execution.</description>
+    </item>
+    <item>
+      <title>KPIs</title>
+      <link>http://localhost:1313/pm_playbook/02-templates/04-metrics/03-kpis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/02-templates/04-metrics/03-kpis/</guid>
+      <description>A template to define and track Key Performance Indicators that measure product performance, health, and impact over time.</description>
+    </item>
+    <item>
+      <title>Experiment Metrics</title>
+      <link>http://localhost:1313/pm_playbook/02-templates/04-metrics/04-experiment-metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/02-templates/04-metrics/04-experiment-metrics/</guid>
+      <description>A template to define success metrics for product experiments, enabling teams to evaluate hypotheses and learning outcomes.</description>
+    </item>
+  </channel>
+</rss>

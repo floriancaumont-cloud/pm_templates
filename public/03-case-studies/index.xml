@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Case studies on Product Manager Playbook</title>
+    <link>http://localhost:1313/pm_playbook/03-case-studies/</link>
+    <description>Recent content in Case studies on Product Manager Playbook</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/pm_playbook/03-case-studies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case Study Template</title>
+      <link>http://localhost:1313/pm_playbook/03-case-studies/case-study-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/03-case-studies/case-study-template/</guid>
+      <description>A structured template for documenting real product case studies, covering context, problems, constraints, decisions, delivery, and outcomes.</description>
+    </item>
+    <item>
+      <title>Natural Capital</title>
+      <link>http://localhost:1313/pm_playbook/03-case-studies/natural-capital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/03-case-studies/natural-capital/</guid>
+      <description>SaaS Platform for Green Deal Clients.</description>
+    </item>
+    <item>
+      <title>SIRVEC</title>
+      <link>http://localhost:1313/pm_playbook/03-case-studies/sirvec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pm_playbook/03-case-studies/sirvec/</guid>
+      <description>Evidence Tracking &amp;amp; Chain of Custody Platform.</description>
+    </item>
+  </channel>
+</rss>
