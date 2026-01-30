@@ -15,11 +15,7 @@ params:
   ShowCodeCopyButtons: true
   disableScrollToTop: false
   hideFooter: false
-  homeInfoParams:
-    Title: "Product Manager Playbook"
-    Content: >
-      A practical and opinionated Product Management playbook with templates,
-      frameworks, case studies, and resources built from real-world experience.
+  mainSections: []
 
 menu:
   main:
