@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Foundations on Product Manager Playbook</title>
-    <link>http://localhost:1313/pm_playbook/01-foundations/</link>
+    <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/</link>
     <description>Recent content in Foundations on Product Manager Playbook</description>
-    <generator>Hugo -- 0.154.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/pm_playbook/01-foundations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Common PM Mistakes</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/10-common-pm-mistakes/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/10-common-pm-mistakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/10-common-pm-mistakes/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/10-common-pm-mistakes/</guid>
       <description>Common mistakes a Product Manager faces.</description>
     </item>
     <item>
       <title>Decision Making</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/07-decision-making/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/07-decision-making/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/07-decision-making/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/07-decision-making/</guid>
       <description>How to make decisions as a Product Manager.</description>
     </item>
     <item>
       <title>Metrics and Measuring Success</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/08-metrics-and-success/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/08-metrics-and-success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/08-metrics-and-success/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/08-metrics-and-success/</guid>
       <description>How to use metrics and measure success.</description>
     </item>
     <item>
       <title>Outcomes vs Output</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/04-outcomes-vs-output/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/04-outcomes-vs-output/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/04-outcomes-vs-output/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/04-outcomes-vs-output/</guid>
       <description>The difference between Outcomes and Output.</description>
     </item>
     <item>
       <title>Problem vs Solution Thinking</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/03-problem-vs-solution-thinking/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/03-problem-vs-solution-thinking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/03-problem-vs-solution-thinking/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/03-problem-vs-solution-thinking/</guid>
       <description>The difference between Problem and Solution Thinking.</description>
     </item>
     <item>
       <title>Product Lifecycle</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/05-product-lifecycle/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/05-product-lifecycle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/05-product-lifecycle/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/05-product-lifecycle/</guid>
       <description>The definition of the Product Lifecycle.</description>
     </item>
     <item>
       <title>Product Principles</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/09-product-principles/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/09-product-principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/09-product-principles/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/09-product-principles/</guid>
       <description>Main principles to follow for a good product.</description>
     </item>
     <item>
       <title>Stakeholder Management</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/06-stakeholder-management/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/06-stakeholder-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/06-stakeholder-management/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/06-stakeholder-management/</guid>
       <description>How to manage Stakeholders.</description>
     </item>
     <item>
       <title>The Role of a Product Manager</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/02-role-of-a-product-manager/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/02-role-of-a-product-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/02-role-of-a-product-manager/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/02-role-of-a-product-manager/</guid>
       <description>Definition of the role of a Product Manager.</description>
     </item>
     <item>
       <title>What Is Product Management</title>
-      <link>http://localhost:1313/pm_playbook/01-foundations/01-what-is-product-management/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/01-what-is-product-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/01-foundations/01-what-is-product-management/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/01-foundations/01-what-is-product-management/</guid>
       <description>Definition of what is Product Management.</description>
     </item>
   </channel>

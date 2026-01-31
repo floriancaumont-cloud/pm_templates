@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resources on Product Manager Playbook</title>
-    <link>http://localhost:1313/pm_playbook/05-resources/</link>
+    <link>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/</link>
     <description>Recent content in Resources on Product Manager Playbook</description>
-    <generator>Hugo -- 0.154.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/pm_playbook/05-resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://floriancaumont-cloud.github.io/pm_playbook/05-resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles &amp; Blogs</title>
-      <link>http://localhost:1313/pm_playbook/05-resources/articles/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/05-resources/articles/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/articles/</guid>
       <description>A curated selection of articles and blogs covering product management, discovery, strategy, delivery, leadership, and industry trends.</description>
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/pm_playbook/05-resources/books/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/05-resources/books/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/books/</guid>
       <description>Essential books for Product Managers, covering product discovery, strategy, leadership, systems thinking, and modern product practices.</description>
     </item>
     <item>
       <title>Communities</title>
-      <link>http://localhost:1313/pm_playbook/05-resources/communities/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/communities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/05-resources/communities/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/communities/</guid>
       <description>Product management communities where practitioners share knowledge, experiences, challenges, and opportunities for growth.</description>
     </item>
     <item>
       <title>Courses &amp; Certifications</title>
-      <link>http://localhost:1313/pm_playbook/05-resources/courses-certifications/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/courses-certifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/05-resources/courses-certifications/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/courses-certifications/</guid>
       <description>Courses and certifications to build, validate, and deepen product management skills across discovery, delivery, strategy, and leadership.</description>
     </item>
     <item>
       <title>Podcasts</title>
-      <link>http://localhost:1313/pm_playbook/05-resources/podcasts/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/05-resources/podcasts/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/05-resources/podcasts/</guid>
       <description>Podcasts featuring conversations, interviews, and insights on product management, startups, technology, and leadership.</description>
     </item>
   </channel>

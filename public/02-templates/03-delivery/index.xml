@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Delivery Templates on Product Manager Playbook</title>
-    <link>http://localhost:1313/pm_playbook/02-templates/03-delivery/</link>
+    <link>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/</link>
     <description>Recent content in Delivery Templates on Product Manager Playbook</description>
-    <generator>Hugo -- 0.154.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/pm_playbook/02-templates/03-delivery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Requirements Document (PRD)</title>
-      <link>http://localhost:1313/pm_playbook/02-templates/03-delivery/01-prd/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/01-prd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/02-templates/03-delivery/01-prd/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/01-prd/</guid>
       <description>A structured template to document product requirements, aligning business goals, user needs, constraints, and delivery teams.</description>
     </item>
     <item>
       <title>Backlog Refinement</title>
-      <link>http://localhost:1313/pm_playbook/02-templates/03-delivery/02-backlog-refinement/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/02-backlog-refinement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/02-templates/03-delivery/02-backlog-refinement/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/02-backlog-refinement/</guid>
       <description>A template to support effective backlog refinement, ensuring clarity, prioritization, and readiness of product work.</description>
     </item>
     <item>
       <title>Sprint Goal</title>
-      <link>http://localhost:1313/pm_playbook/02-templates/03-delivery/03-sprint-goal/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/03-sprint-goal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/02-templates/03-delivery/03-sprint-goal/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/03-sprint-goal/</guid>
       <description>A template to define clear and outcome-oriented sprint goals that align team efforts and focus delivery.</description>
     </item>
     <item>
       <title>Release Plan</title>
-      <link>http://localhost:1313/pm_playbook/02-templates/03-delivery/04-release-plan/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/04-release-plan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/02-templates/03-delivery/04-release-plan/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/04-release-plan/</guid>
       <description>A template to plan and communicate product releases, aligning scope, timing, risks, and stakeholders.</description>
     </item>
     <item>
       <title>Retrospective</title>
-      <link>http://localhost:1313/pm_playbook/02-templates/03-delivery/05-retrospective/</link>
+      <link>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/05-retrospective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pm_playbook/02-templates/03-delivery/05-retrospective/</guid>
+      <guid>https://floriancaumont-cloud.github.io/pm_playbook/02-templates/03-delivery/05-retrospective/</guid>
       <description>A structured template for running retrospectives that support continuous improvement, learning, and team alignment.</description>
     </item>
   </channel>
