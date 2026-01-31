@@ -23,7 +23,7 @@ params:
   ShowCodeCopyButtons: true
   disableScrollToTop: false
   hideFooter: false
-
+  mainSections: []
 menu:
   main:
     - identifier: foundations
