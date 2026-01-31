@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-
+  pull_request:
+    branches: [main]
 permissions:
   contents: read
   pages: write
@@ -24,9 +25,9 @@ jobs:
           submodules: recursive
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.154.5'
+          hugo-version: 'latest'
           extended: true
 
       - name: Build
@@ -38,6 +39,7 @@ jobs:
           path: ./public
 
   deploy:
+    if: github.event_name == 'push'
     needs: build
     runs-on: ubuntu-latest
     environment:
